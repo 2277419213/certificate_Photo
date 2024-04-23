@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy
+pillow
+uvicorn
+fastapi
+scikit-image
