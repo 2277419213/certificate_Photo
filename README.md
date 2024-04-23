@@ -9,16 +9,17 @@
 接口参数应该每个人都不同，接口只有一个在main.py里面，有问题可以留言
 
 
-### 演示
-原图：神仙姐姐真美，侵权issues留言删除，只用学习，无意冒犯
-![原图](images/lyf.png)
+### 演示  
+原图：神仙姐姐真美，侵权issues留言删除，只用学习，无意冒犯    
+![原图](images/lyf.png)   
 <hr>
-蓝色背景：
-![蓝色背景](images/blue.png)
-白色背景：
-![白色背景](images/white.png)
-红色背景：
-![红色背景](images/red.png)
+
+蓝色背景：  
+![蓝色背景](images/blue.png)  
+白色背景：  
+![白色背景](images/white.png)  
+红色背景：  
+![红色背景](images/red.png)  
 
 ### Install
 1. 拉取代码，模型文件也在代码里面，比较大，要用git lfs
