@@ -5,3 +5,4 @@ pillow
 uvicorn
 fastapi
 scikit-image
+python-multipart
